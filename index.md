@@ -7,4 +7,4 @@
 
 
 // TODO: add more items to the shopping list.
--chocolate
+- chocolate
