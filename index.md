@@ -4,7 +4,7 @@
 2. Oranges 🍊
 3. Tissues 🚽
 4. Bread 🍞
-
+5. chocolate
 
 // TODO: add more items to the shopping list.
-- chocolate
+
