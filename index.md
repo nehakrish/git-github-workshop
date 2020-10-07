@@ -5,6 +5,8 @@
 3. Tissues 🚽
 4. Bread 🍞
 5. chocolate
+6. dresses
+7. watch
 
 // TODO: add more items to the shopping list.
 
