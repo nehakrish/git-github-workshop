@@ -7,6 +7,8 @@
 5. chocolate
 6. dresses
 7. watch
+8. cookies
+9. Books
 
 // TODO: add more items to the shopping list.
 
